@@ -1,1 +1,4 @@
-this assignment will help in learning github
+The Project that i will create is money tracker.
+ 
+This application will help users to track their expenses. Moreover, users can upload their receipts of spending on various things like shopping, groceries, transportation, etc.
+the application will calculate the total income and the total expense for a annual year. The motive of this application is to tell people about money management.
