@@ -1,3 +1,7 @@
+Student Name: Hrittik Mehta
+Student number: 100397035
+
+
 The Project that i will create is money tracker.
  
 This application will help users to track their expenses. Moreover, users can upload their receipts of spending on various things like shopping, groceries, transportation, etc.
