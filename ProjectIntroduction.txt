@@ -1,5 +1,4 @@
-Student Name: Hrittik Mehta
-Student number: 100397035
+
 
 
 The Project that i will create is money tracker.
